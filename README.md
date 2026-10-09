@@ -24,4 +24,4 @@ Execute the application from the root folder:
 ```powershell
 python -m uvicorn main:app --reload
 ```
-Open your browser to test the endpoints: `http://127.0.0`
+Open your browser to test the endpoints: '127.0.0.1:8000/docs'
